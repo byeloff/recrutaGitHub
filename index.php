@@ -1,4 +1,7 @@
 <?php
 
-// Adicionei um comentario
 echo 'Olá Mundo';
+
+function teste(){
+	// Testando o GIT.
+}
